@@ -1,0 +1,982 @@
+CustomerID,Name,Age,Gender,City,SignupDate,PurchaseAmount,SatisfactionScore
+CUST00854,Mary Lopez,47,Male,Phoenix,2023-06-24,195.12,4
+CUST00787,Robert Jones,33,Male,Philadelphia,2023-01-18,289.34,4
+CUST00315,Michael Gonzalez,41,Male,Phoenix,2020-01-07,684.51,4
+CUST00815,John Rodriguez,47,Male,Houston,2023-03-25,240.09,3
+CUST00977,Joseph Thomas,49,Female,San Diego,2024-04-08,42.15,3
+CUST00010,Barbara Wilson,25,Male,New York,2018-01-22,206.32,4
+CUST00135,David Lopez,33,Male,Houston,2018-11-11,252.84,4
+CUST00777,Michael Rodriguez,38,Male,San Jose,2022-12-25,257.36,3
+CUST00410,Mary Lopez,40,Male,Phoenix,2020-08-17,244.16,1
+CUST00413,Robert Hernandez,55,Male,San Diego,2020-08-24,108.52,2
+CUST00975,Barbara Rodriguez,27,Female,Phoenix,2024-04-03,683.92,4
+CUST00460,William Martinez,43,Male,Chicago,2020-12-12,263.12,4
+CUST00510,Jennifer Johnson,53,Male,San Diego,2021-08-04,325.34,5
+CUST00055,John Martinez,23,Male,San Diego,2018-05-07,316.58,4
+CUST00780,Sarah Anderson,37,Female,San Antonio,2023-01-02,781.6325,4
+CUST00713,Jennifer Johnson,48,Male,Los Angeles,2022-07-28,621.91,3
+CUST00543,Thomas Jones,46,Female,Unknown,2021-06-25,140.02,5
+CUST00816,Unknown,40,Female,San Antonio,2023-03-27,224.52,5
+CUST00147,Robert Williams,56,Female,San Diego,2018-12-09,154.76,4
+CUST00835,Jennifer Jones,61,Male,Houston,2023-05-11,183.66,4
+CUST00488,Patricia Martinez,13,Female,Unknown,2021-02-16,184.77,3
+CUST00375,Thomas Rodriguez,39,Male,Chicago,2020-05-27,325.52,3
+CUST00939,Jennifer Anderson,46,Female,Chicago,2024-01-09,261.22,4
+CUST00725,Richard Smith,40,Female,Los Angeles,2022-08-26,726.85,4
+CUST00035,Elizabeth Brown,50,Female,San Antonio,2018-03-21,485.78,5
+CUST00172,Richard Williams,41,Female,San Antonio,2019-02-06,514.82,5
+CUST00396,Jennifer Lopez,56,Female,Philadelphia,2020-07-15,211.05,2
+CUST00819,Thomas Rodriguez,26,Female,San Jose,2023-03-04,117.65,4
+CUST00362,Susan Anderson,72,Female,Houston,2020-04-26,382.2,1
+CUST00329,John Garcia,43,Female,Houston,2020-02-09,209.94,4
+CUST00171,Jennifer Garcia,56,Male,Houston,2019-03-02,427.98,4
+CUST00257,John Brown,60,Male,Dallas,2019-08-24,298.41,4
+CUST00803,Karen Gonzalez,50,Female,Chicago,2023-02-24,255.18,5
+CUST00180,Thomas Thomas,35,Male,Chicago,2019-02-24,145.65,3
+CUST00917,David Smith,53,Male,San Diego,2023-11-19,134.0,4
+CUST00586,Elizabeth Smith,40,Female,San Diego,2021-10-04,252.84,4
+CUST00165,Linda Miller,38,Female,Houston,2019-01-20,250.04,3
+CUST00893,Richard Wilson,39,Male,San Jose,2023-09-24,240.24,3
+CUST00962,Linda Hernandez,26,Female,New York,2024-03-03,38.25,5
+CUST00326,Linda Martinez,27,Male,Los Angeles,2020-02-02,672.48,5
+CUST00467,Linda Smith,48,Male,Houston,2020-12-28,316.96,5
+CUST00373,John Rodriguez,45,Male,Philadelphia,2020-05-22,670.5,3
+CUST00602,Jennifer Garcia,47,Male,San Jose,2021-10-11,184.51,3
+CUST00485,Barbara Rodriguez,59,Male,San Antonio,2021-02-09,203.72,5
+CUST00014,Thomas Hernandez,66,Male,Chicago,2018-01-31,781.6325,5
+CUST00748,Linda Smith,41,Male,Houston,2022-10-18,86.08,5
+CUST00317,Michael Wilson,16,Female,Dallas,2020-01-12,205.28,3
+CUST00456,Barbara Martinez,19,Female,San Diego,2020-12-03,497.96,5
+CUST00141,Karen Lopez,49,Male,New York,2018-11-25,379.83,4
+CUST00217,Joseph Garcia,47,Female,San Antonio,2019-05-22,254.66,5
+CUST00490,Richard Johnson,41,Male,Philadelphia,2021-02-20,386.31,5
+CUST00306,Michael Lopez,64,Female,San Diego,2019-12-17,544.41,2
+CUST00658,James Wilson,25,Male,Phoenix,2022-03-21,197.23,5
+CUST00843,Thomas Davis,56,Female,San Diego,2023-05-29,220.93,3
+CUST00583,Patricia Garcia,47,Male,New York,2021-09-26,344.89,3
+CUST00898,Jessica Garcia,29,Female,San Jose,2023-10-05,288.25,4
+CUST00660,Sarah Johnson,41,Male,Los Angeles,2022-03-26,357.17,5
+CUST00409,Linda Thomas,43,Female,New York,2020-08-14,460.21,3
+CUST00100,William Brown,29,Female,Chicago,2018-08-21,90.42,4
+CUST00960,Jennifer Thomas,51,Male,Phoenix,2024-02-28,162.15,4
+CUST00154,Linda Brown,61,Female,Los Angeles,2018-12-25,268.67,5
+CUST00047,James Rodriguez,25,Male,Philadelphia,2018-04-18,302.7,4
+CUST00173,Linda Hernandez,51,Male,San Antonio,2019-02-08,331.5,4
+CUST00964,Linda Jones,48,Female,Philadelphia,2024-03-08,448.1,4
+CUST00678,Mary Williams,28,Male,San Diego,2022-07-05,267.22,4
+CUST00223,Patricia Garcia,39,Female,New York,2019-05-06,293.95,4
+CUST00996,Michael Anderson,26,Male,Houston,2024-05-22,102.55,4
+CUST00260,Charles Martinez,22,Female,San Diego,2019-08-31,196.06,3
+CUST00559,Sarah Davis,37,Female,Dallas,2021-01-08,528.17,4
+CUST00233,John Martinez,48,Female,San Diego,2019-06-29,64.37,4
+CUST00109,Mary Lopez,45,Male,Los Angeles,2018-09-11,360.53,4
+CUST00849,Susan Jones,30,Male,San Jose,2023-12-06,261.19,3
+CUST00735,Robert Garcia,66,Male,Dallas,2022-09-18,248.62,2
+CUST00099,Joseph Hernandez,40,Male,Houston,2018-08-18,270.29,3
+CUST00832,David Johnson,50,Male,Chicago,2023-05-03,252.84,2
+CUST00221,Barbara Lopez,35,Female,San Jose,2019-05-31,252.96,5
+CUST00358,Robert Williams,56,Male,San Antonio,2020-04-17,85.22,3
+CUST00025,William Martinez,24,Male,Phoenix,2018-02-26,569.73,4
+CUST00991,Barbara Smith,33,Male,San Jose,2024-05-10,413.19,4
+CUST00681,Jessica Brown,27,Female,New York,2022-05-14,276.48,4
+CUST00385,Sarah Hernandez,52,Male,San Jose,2020-06-19,207.66,3
+CUST00095,William Wilson,34,Female,Chicago,2018-08-09,273.88,1
+CUST00770,Barbara Anderson,40,Female,San Antonio,2022-12-09,382.09,4
+CUST00452,John Johnson,59,Male,Houston,2020-11-23,192.92,4
+CUST00026,Mary Brown,34,Male,San Jose,2018-02-28,252.84,5
+CUST00114,Barbara Martinez,30,Male,Houston,2018-09-23,562.15,2
+CUST00126,Robert Brown,49,Male,Dallas,2018-10-21,68.44,4
+CUST00061,Unknown,38,Male,Los Angeles,2018-05-21,623.47,1
+CUST00599,John Brown,43,Male,Los Angeles,2021-11-03,603.0,5
+CUST00948,Thomas Gonzalez,60,Male,New York,2024-01-31,45.65,4
+CUST00245,John Garcia,54,Female,New York,2019-07-27,781.6325,1
+CUST00680,Susan Hernandez,49,Female,San Jose,2022-05-12,31.41,3
+CUST00076,Patricia Wilson,31,Female,Philadelphia,2018-06-25,631.06,3
+CUST00897,Richard Williams,21,Male,Dallas,2023-03-10,216.06,4
+CUST00427,Charles Anderson,39,Female,Houston,2020-09-26,232.42,4
+CUST00715,William Garcia,40,Female,Dallas,2022-08-02,756.89,4
+CUST00418,Joseph Miller,40,Male,Chicago,2020-09-05,414.18,4
+CUST00726,Susan Thomas,36,Male,San Jose,2022-08-28,152.73,5
+CUST00390,David Jones,42,Female,San Jose,2020-07-01,226.25,3
+CUST00054,James Hernandez,22,Female,Dallas,2018-05-05,252.84,4
+CUST00973,Charles Davis,28,Male,Philadelphia,2024-03-29,128.27,3
+CUST00351,Jennifer Martinez,31,Female,Los Angeles,2020-03-31,157.96,2
+CUST00206,Patricia Gonzalez,54,Female,San Jose,2019-04-26,781.6325,5
+CUST00472,Susan Davis,52,Female,San Diego,2021-09-01,221.56,3
+CUST00532,Sarah Davis,48,Male,San Antonio,2021-05-30,433.24,4
+CUST00643,James Smith,55,Male,San Antonio,2022-02-14,234.65,4
+CUST00404,Susan Rodriguez,39,Female,Dallas,2020-03-08,502.9,5
+CUST00717,John Rodriguez,21,Female,San Jose,2022-08-07,133.19,5
+CUST00493,Mary Anderson,49,Male,Chicago,2021-02-27,43.86,3
+CUST00376,James Jones,35,Male,Los Angeles,2020-05-29,161.94,4
+CUST00831,Susan Martinez,38,Male,Phoenix,2023-05-01,406.21,4
+CUST00511,Karen Lopez,34,Female,Dallas,2021-04-11,618.88,5
+CUST00098,Barbara Davis,48,Male,Dallas,2018-08-16,126.18,4
+CUST00286,Sarah Gonzalez,70,Male,Phoenix,2019-10-31,224.91,5
+CUST00887,Michael Anderson,43,Female,Philadelphia,2023-09-09,269.44,2
+CUST00661,Thomas Johnson,56,Male,San Antonio,2022-03-28,109.92,5
+CUST00499,Mary Hernandez,37,Female,Unknown,2021-03-13,468.93,3
+CUST00910,James Garcia,31,Male,Philadelphia,2023-11-02,290.36,4
+CUST00018,Charles Lopez,38,Female,New York,2018-02-09,299.16,2
+CUST00197,Elizabeth Johnson,30,Female,Los Angeles,2019-04-05,443.9,2
+CUST00027,Joseph Lopez,24,Male,Houston,2018-03-02,84.19,3
+CUST00969,David Gonzalez,58,Male,Phoenix,2024-03-20,77.67,3
+CUST00187,James Brown,40,Female,San Diego,2019-03-13,183.82,4
+CUST00743,David Smith,32,Female,Phoenix,2022-10-07,94.27,4
+CUST00345,Linda Gonzalez,31,Male,Phoenix,2020-03-17,83.35,4
+CUST00702,Susan Miller,28,Female,Los Angeles,2022-07-03,270.73,5
+CUST00190,Sarah Rodriguez,39,Male,San Antonio,2019-03-20,341.24,5
+CUST00974,William Smith,30,Male,Los Angeles,2024-04-01,252.84,4
+CUST00271,John Lopez,55,Male,Los Angeles,2019-09-26,693.88,3
+CUST00327,William Johnson,21,Male,New York,2020-02-04,335.27,4
+CUST00806,Jessica Davis,41,Male,Philadelphia,2023-04-03,122.7,3
+CUST00692,David Martinez,25,Female,Philadelphia,2022-06-09,343.88,3
+CUST00778,Charles Thomas,19,Male,Phoenix,2022-12-28,200.69,3
+CUST00795,Barbara Wilson,36,Female,Philadelphia,2023-02-06,123.42,3
+CUST00352,Barbara Gonzalez,32,Female,New York,2020-04-03,550.13,5
+CUST00386,Richard Jones,44,Female,Chicago,2020-06-21,230.01,5
+CUST00752,Michael Williams,32,Female,San Jose,2022-10-28,76.95,3
+CUST00791,Thomas Brown,52,Female,Houston,2023-01-27,781.6325,4
+CUST00495,Thomas Lopez,48,Male,Phoenix,2021-03-04,220.33,4
+CUST00263,Patricia Thomas,40,Male,San Antonio,2019-09-07,252.84,4
+CUST00839,Robert Brown,40,Male,San Diego,2023-05-20,120.69,5
+CUST00075,Karen Gonzalez,31,Male,Chicago,2018-06-23,361.18,4
+CUST00169,Charles Garcia,50,Female,New York,2019-01-30,374.8,4
+CUST00927,David Brown,44,Female,Philadelphia,2023-12-12,781.6325,4
+CUST00563,Jennifer Smith,40,Male,San Diego,2021-11-08,688.92,2
+CUST00762,Barbara Wilson,43,Male,San Diego,2022-11-20,77.9,3
+CUST00659,Charles Anderson,35,Male,San Antonio,2022-03-24,240.59,2
+CUST00729,Charles Jones,50,Male,Phoenix,2022-09-04,395.52,3
+CUST00554,John Jones,30,Male,Phoenix,2021-07-20,42.88,4
+CUST00307,Susan Anderson,32,Male,San Antonio,2019-12-19,150.31,4
+CUST00981,James Johnson,53,Female,San Antonio,2024-04-17,132.91,4
+CUST00784,Thomas Wilson,21,Female,Philadelphia,2023-11-01,106.16,3
+CUST00868,Charles Martinez,23,Female,New York,2023-07-27,359.85,4
+CUST00895,Thomas Davis,38,Male,Los Angeles,2023-09-28,488.68,5
+CUST00790,Joseph Davis,8,Male,Philadelphia,2023-01-25,781.6325,2
+CUST00863,John Lopez,43,Female,San Diego,2023-07-15,346.48,5
+CUST00473,Mary Gonzalez,42,Male,Phoenix,2021-01-12,670.58,2
+CUST00309,Joseph Thomas,47,Female,Dallas,2019-12-24,159.88,2
+CUST00111,James Smith,31,Male,Philadelphia,2018-09-15,44.02,5
+CUST00526,Susan Thomas,36,Male,Los Angeles,2021-05-16,113.07,3
+CUST00633,David Garcia,25,Male,Houston,2022-01-22,392.91,4
+CUST00058,Michael Rodriguez,40,Male,San Antonio,2018-05-14,252.84,3
+CUST00650,Linda Smith,51,Female,San Jose,2022-03-03,78.86,5
+CUST00007,Patricia Davis,33,Male,San Diego,2018-01-15,171.15,5
+CUST00631,William Williams,29,Male,San Jose,2022-01-17,630.41,5
+CUST00139,Jessica Martinez,39,Female,Philadelphia,2018-11-20,252.84,2
+CUST00164,Jessica Brown,26,Female,Philadelphia,2019-01-18,347.87,3
+CUST00359,Karen Rodriguez,25,Male,New York,2020-04-19,364.96,5
+CUST00889,Mary Wilson,29,Female,Houston,2023-09-14,88.03,4
+CUST00837,Joseph Miller,50,Female,Los Angeles,2023-05-15,259.91,4
+CUST00044,Sarah Anderson,60,Male,New York,2018-04-11,120.02,4
+CUST00616,Elizabeth Smith,40,Female,Chicago,2021-12-13,496.66,5
+CUST00064,Robert Smith,62,Male,New York,2018-05-28,451.73,3
+CUST00592,Linda Jones,38,Female,Philadelphia,2021-10-18,112.77,4
+CUST00587,Jennifer Gonzalez,45,Male,Philadelphia,2021-10-06,326.67,4
+CUST00039,Patricia Wilson,71,Female,San Jose,2018-03-31,362.55,4
+CUST00400,John Jones,37,Female,Phoenix,2020-07-24,89.58,5
+CUST00745,Mary Rodriguez,26,Male,Philadelphia,2022-10-11,111.89,5
+CUST00687,Charles Thomas,33,Male,Phoenix,2022-05-28,648.98,4
+CUST00982,James Smith,46,Male,San Antonio,2024-04-19,244.88,3
+CUST00205,Michael Rodriguez,47,Male,San Diego,2019-04-24,268.06,3
+CUST00421,David Williams,37,Male,Los Angeles,2020-09-12,301.67,3
+CUST00959,Patricia Rodriguez,72,Male,New York,2024-02-25,670.49,4
+CUST00811,Thomas Williams,49,Male,Houston,2023-03-15,133.19,5
+CUST00285,Patricia Martinez,42,Male,New York,2019-10-29,374.2,4
+CUST00508,Linda Jones,40,Male,Dallas,2021-04-04,118.74,1
+CUST00287,David Gonzalez,37,Female,Unknown,2019-11-02,600.82,2
+CUST00753,Robert Johnson,40,Female,San Diego,2022-10-30,420.12,1
+CUST00186,Robert Lopez,52,Female,Dallas,2019-03-10,171.98,4
+CUST00447,Patricia Davis,36,Male,San Diego,2020-11-12,252.84,3
+CUST00965,Sarah Wilson,46,Male,San Antonio,2024-03-10,192.08,4
+CUST00855,Elizabeth Rodriguez,56,Female,San Jose,2023-06-26,160.16,4
+CUST00229,Sarah Lopez,47,Male,Houston,2019-06-19,266.69,2
+CUST00548,Robert Williams,42,Male,San Diego,2021-06-07,88.12,5
+CUST00105,Robert Smith,41,Female,Phoenix,2018-09-01,155.61,3
+CUST00368,Jennifer Lopez,56,Male,Houston,2020-05-10,86.87,2
+CUST00062,John Williams,30,Male,Los Angeles,2018-05-24,234.2,5
+CUST00626,Charles Davis,32,Male,Los Angeles,2022-01-05,269.0,4
+CUST00597,Patricia Brown,52,Female,San Antonio,2021-10-29,362.67,2
+CUST00545,Susan Jones,60,Male,Chicago,2021-06-29,135.08,4
+CUST00596,Charles Williams,63,Female,New York,2021-10-27,428.87,3
+CUST00747,William Rodriguez,55,Male,San Jose,2022-10-16,192.44,4
+CUST00455,John Rodriguez,44,Female,San Diego,2020-11-30,738.59,3
+CUST00254,James Wilson,42,Female,Los Angeles,2019-08-17,162.63,4
+CUST00730,Patricia Williams,46,Male,Philadelphia,2022-06-09,71.95,4
+CUST00515,Jennifer Williams,40,Female,New York,2021-04-20,252.84,1
+CUST00709,David Wilson,34,Male,Phoenix,2022-07-19,781.6325,4
+CUST00436,Karen Davis,42,Male,Dallas,2020-10-17,428.03,4
+CUST00571,Jennifer Williams,42,Female,Phoenix,2021-08-29,119.46,5
+CUST00110,John Thomas,15,Male,Houston,2018-09-13,188.44,4
+CUST00677,Joseph Davis,40,Female,Philadelphia,2022-05-05,275.43,4
+CUST00361,William Smith,17,Male,Chicago,2020-04-24,34.23,5
+CUST00337,Charles Gonzalez,33,Female,San Jose,2020-02-28,356.88,4
+CUST00320,Sarah Anderson,44,Female,San Jose,2020-01-19,224.59,1
+CUST00614,John Davis,40,Male,Chicago,2021-12-08,226.36,1
+CUST00397,Thomas Jones,29,Male,Philadelphia,2020-07-17,238.35,4
+CUST00149,Robert Brown,16,Male,Houston,2018-12-14,365.46,5
+CUST00793,James Thomas,44,Male,San Antonio,2023-01-02,184.94,4
+CUST00690,James Anderson,45,Male,Philadelphia,2022-06-04,80.66,4
+CUST00541,Jennifer Miller,44,Male,Dallas,2021-06-20,89.77,4
+CUST00159,Mary Garcia,40,Male,Houston,2019-06-01,354.87,5
+CUST00786,Richard Johnson,9,Female,Los Angeles,2023-01-16,325.87,5
+CUST00483,Elizabeth Miller,49,Female,Los Angeles,2021-02-04,478.74,4
+CUST00570,Charles Garcia,38,Female,San Jose,2021-08-27,86.53,4
+CUST00494,Linda Davis,53,Male,San Jose,2021-03-02,264.59,4
+CUST00024,Susan Johnson,40,Female,New York,2018-02-23,221.07,5
+CUST00782,Robert Johnson,42,Male,Houston,2023-01-06,781.6325,4
+CUST00129,Charles Brown,28,Male,Philadelphia,2018-10-28,388.97,4
+CUST00860,Linda Hernandez,53,Male,Houston,2023-07-08,45.18,4
+CUST00971,Jennifer Rodriguez,39,Male,Philadelphia,2024-03-24,250.62,3
+CUST00325,Susan Gonzalez,39,Male,San Jose,2020-01-30,154.24,5
+CUST00901,William Thomas,41,Female,Dallas,2023-10-12,65.66,4
+CUST00512,David Brown,44,Female,San Jose,2021-04-13,129.88,3
+CUST00363,James Jones,35,Male,Dallas,2020-04-29,234.1,3
+CUST00654,Charles Wilson,27,Male,Philadelphia,2022-03-12,297.05,5
+CUST00468,Robert Gonzalez,57,Female,San Diego,2020-12-31,35.0,4
+CUST00714,Elizabeth Brown,33,Male,San Diego,2022-07-31,193.81,3
+CUST00954,Robert Brown,40,Male,Los Angeles,2024-02-14,468.36,4
+CUST00758,John Lopez,39,Female,New York,2022-11-11,538.95,5
+CUST00829,Linda Brown,54,Female,Chicago,2023-04-26,244.46,4
+CUST00925,William Miller,25,Male,Philadelphia,2023-08-12,781.6325,3
+CUST00420,Susan Johnson,49,Male,Philadelphia,2020-09-09,640.51,3
+CUST00527,Jennifer Jones,29,Female,San Jose,2021-05-18,52.33,4
+CUST00610,Linda Lopez,53,Female,Dallas,2021-11-29,102.98,5
+CUST00250,Karen Jones,21,Female,San Antonio,2019-08-07,48.85,4
+CUST00380,Robert Gonzalez,40,Male,Dallas,2020-06-07,372.55,4
+CUST00016,Jessica Anderson,53,Male,San Antonio,2018-02-05,246.25,5
+CUST00160,Robert Thomas,59,Male,Philadelphia,2019-01-08,290.54,3
+CUST00644,David Garcia,32,Male,Los Angeles,2022-02-17,364.94,5
+CUST00049,James Lopez,55,Female,Chicago,2018-04-23,627.6,5
+CUST00930,David Hernandez,32,Male,Philadelphia,2023-12-19,13.63,3
+CUST00864,Jessica Gonzalez,53,Male,Los Angeles,2023-07-18,125.01,5
+CUST00378,Jessica Gonzalez,24,Female,New York,2020-06-03,129.78,4
+CUST00295,John Lopez,42,Male,Dallas,2019-11-21,312.17,5
+CUST00568,Linda Davis,49,Female,San Jose,2021-08-22,29.85,5
+CUST00128,Robert Anderson,62,Female,Dallas,2018-10-25,147.57,2
+CUST00298,Robert Rodriguez,57,Male,San Diego,2019-11-28,190.22,5
+CUST00995,Jennifer Rodriguez,40,Female,Los Angeles,2024-05-20,300.89,5
+CUST00238,Jessica Rodriguez,35,Female,Phoenix,2019-07-10,198.21,4
+CUST00168,Barbara Hernandez,14,Female,San Jose,2019-01-27,435.14,4
+CUST00891,Barbara Miller,27,Male,Dallas,2023-09-19,235.76,4
+CUST00081,Michael Hernandez,29,Male,San Diego,2018-07-07,158.16,5
+CUST00670,Sarah Miller,33,Female,Los Angeles,2022-04-19,655.3,4
+CUST00940,Mary Gonzalez,43,Male,San Antonio,2024-01-12,309.31,3
+CUST00936,Charles Rodriguez,37,Male,Houston,2024-01-02,121.22,4
+CUST00031,Thomas Brown,39,Female,San Antonio,2018-03-12,165.97,3
+CUST00243,Robert Lopez,31,Male,Chicago,2019-07-22,229.94,4
+CUST00874,Charles Thomas,11,Female,Houston,2023-08-10,105.63,4
+CUST00740,Patricia Anderson,46,Female,Chicago,2022-09-30,67.13,1
+CUST00572,Michael Williams,34,Male,New York,2021-09-01,150.47,2
+CUST00878,Richard Hernandez,42,Male,San Jose,2023-08-19,252.84,4
+CUST00579,Jennifer Rodriguez,44,Male,Philadelphia,2021-09-17,192.37,4
+CUST00050,Linda Davis,38,Female,Phoenix,2018-04-25,212.49,5
+CUST00028,Michael Lopez,36,Female,San Antonio,2018-03-05,294.64,3
+CUST00578,Patricia Gonzalez,37,Female,New York,2021-09-15,269.19,3
+CUST00123,Jessica Thomas,42,Male,Phoenix,2018-10-14,542.99,4
+CUST00802,Michael Wilson,33,Male,San Antonio,2023-02-22,616.91,3
+CUST00934,John Hernandez,32,Male,New York,2023-12-29,365.2,2
+CUST00721,Jennifer Hernandez,37,Female,Dallas,2022-08-16,202.01,4
+CUST00723,Barbara Gonzalez,39,Male,Chicago,2022-08-21,84.87,4
+CUST00564,Joseph Smith,29,Female,Phoenix,2021-08-13,456.47,5
+CUST00509,Patricia Davis,40,Female,Phoenix,2021-06-04,32.54,3
+CUST00590,Karen Davis,27,Female,San Diego,2021-10-13,536.36,4
+CUST00348,Richard Lopez,58,Male,San Antonio,2020-03-24,35.08,5
+CUST00756,Jennifer Johnson,31,Male,San Diego,2022-11-06,126.26,3
+CUST00278,Charles Johnson,49,Female,Los Angeles,2019-10-12,113.31,2
+CUST00846,Richard Davis,41,Male,Phoenix,2023-06-05,334.08,4
+CUST00432,Thomas Jones,50,Female,San Jose,2020-10-07,259.74,4
+CUST00783,Elizabeth Miller,38,Female,Dallas,2023-01-09,337.32,5
+CUST00741,Karen Williams,49,Female,Los Angeles,2022-10-02,328.04,4
+CUST00148,Jessica Thomas,59,Male,Philadelphia,2018-12-11,126.1,5
+CUST00300,Karen Thomas,55,Male,Chicago,2019-12-03,734.43,3
+CUST00557,Patricia Rodriguez,34,Female,San Antonio,2021-07-28,152.39,4
+CUST00446,Patricia Davis,54,Male,Los Angeles,2020-11-09,166.15,4
+CUST00876,James Hernandez,41,Female,Dallas,2023-08-15,330.55,3
+CUST00458,Thomas Wilson,44,Female,Dallas,2020-07-12,199.3,5
+CUST00052,Thomas Davis,31,Male,Los Angeles,2018-04-30,209.48,4
+CUST00877,Jessica Rodriguez,35,Female,San Jose,2023-08-17,331.27,5
+CUST00519,Barbara Jones,28,Male,Phoenix,2021-04-29,183.24,5
+CUST00023,Sarah Brown,30,Female,Chicago,2018-02-21,184.32,3
+CUST00319,David Hernandez,40,Female,Phoenix,2020-01-16,331.33,2
+CUST00674,Joseph Jones,47,Male,Phoenix,2022-04-28,561.77,5
+CUST00433,Patricia Martinez,27,Female,Houston,2020-10-10,265.71,1
+CUST00210,Susan Lopez,43,Male,Chicago,2019-05-06,478.99,3
+CUST00620,William Garcia,36,Female,Chicago,2021-12-22,211.07,4
+CUST00143,James Thomas,22,Male,Houston,2018-11-30,478.65,3
+CUST00051,David Williams,49,Female,San Diego,2018-04-28,440.23,3
+CUST00167,James Thomas,52,Female,San Diego,2019-01-25,436.81,3
+CUST00911,Sarah Johnson,40,Female,Los Angeles,2023-11-05,88.4,4
+CUST00926,Joseph Miller,42,Male,San Diego,2023-12-10,489.06,2
+CUST00082,Charles Garcia,45,Male,Los Angeles,2018-07-09,252.84,2
+CUST00847,Joseph Rodriguez,44,Male,Houston,2023-06-08,207.03,4
+CUST00322,Elizabeth Martinez,39,Male,San Antonio,2020-01-23,46.02,4
+CUST00738,John Davis,37,Male,Philadelphia,2022-09-25,181.71,1
+CUST00963,Richard Smith,37,Female,Chicago,2024-03-06,342.66,5
+CUST00900,Michael Martinez,26,Female,San Jose,2023-10-10,250.14,5
+CUST00067,Robert Smith,24,Male,Houston,2018-06-04,207.31,5
+CUST00335,Richard Brown,54,Female,New York,2020-02-23,781.6325,4
+CUST00134,Linda Smith,42,Male,San Antonio,2018-08-11,59.4,5
+CUST00704,Charles Smith,33,Male,Dallas,2022-07-07,218.12,4
+CUST00290,John Rodriguez,22,Male,San Jose,2019-11-09,191.23,4
+CUST00340,Elizabeth Martinez,39,Male,San Antonio,2020-03-06,114.9,4
+CUST00946,Linda Lopez,39,Female,San Antonio,2024-01-26,288.46,3
+CUST00284,William Miller,44,Male,New York,2019-10-26,338.6,4
+CUST00501,John Rodriguez,55,Female,Phoenix,2021-03-18,781.6325,2
+CUST00664,Linda Gonzalez,51,Female,San Diego,2022-04-04,187.49,4
+CUST00065,Robert Jones,32,Female,Philadelphia,2018-05-31,76.36,2
+CUST00265,Mary Smith,50,Female,New York,2019-09-12,182.64,4
+CUST00450,Sarah Gonzalez,48,Female,San Diego,2020-11-19,781.6325,4
+CUST00581,John Hernandez,54,Female,New York,2021-09-22,37.87,2
+CUST00683,Susan Anderson,42,Female,Houston,2022-05-19,226.12,4
+CUST00021,Charles Miller,46,Female,Chicago,2018-02-16,384.79,5
+CUST00443,Jessica Anderson,39,Male,San Diego,2020-11-02,104.15,4
+CUST00821,John Gonzalez,48,Female,Los Angeles,2023-04-08,401.42,3
+CUST00956,Susan Miller,60,Female,Houston,2024-02-18,49.65,4
+CUST00297,Richard Miller,44,Female,Philadelphia,2019-11-26,199.92,4
+CUST00500,Richard Garcia,29,Female,Unknown,2021-03-16,781.6325,3
+CUST00262,John Gonzalez,24,Male,San Jose,2019-09-05,194.32,1
+CUST00998,Barbara Davis,49,Female,San Diego,2024-05-27,247.6,2
+CUST00823,Jennifer Miller,35,Female,Dallas,2023-12-04,140.7,5
+CUST00558,Richard Martinez,42,Male,Houston,2021-07-30,477.38,5
+CUST00612,Barbara Brown,52,Female,San Antonio,2021-12-04,192.69,3
+CUST00622,James Wilson,43,Male,San Diego,2021-12-27,290.86,4
+CUST00529,Patricia Gonzalez,33,Male,Houston,2021-05-23,101.35,5
+CUST00880,Elizabeth Brown,15,Female,New York,2023-08-24,200.52,2
+CUST00189,Robert Thomas,44,Male,Houston,2019-03-17,155.78,3
+CUST00252,Jessica Jones,37,Female,Phoenix,2019-08-12,156.1,4
+CUST00072,Elizabeth Lopez,39,Female,Chicago,2018-06-16,293.55,3
+CUST00102,Thomas Martinez,59,Female,San Diego,2018-08-25,271.99,4
+CUST00979,Elizabeth Davis,67,Female,New York,2024-12-04,267.11,1
+CUST00766,John Garcia,29,Male,Philadelphia,2022-11-30,274.72,4
+CUST00398,John Garcia,14,Female,Los Angeles,2020-07-20,157.61,4
+CUST00886,David Jones,54,Male,Philadelphia,2023-09-07,327.76,4
+CUST00566,Joseph Miller,17,Male,New York,2021-08-18,318.2,5
+CUST00667,Charles Wilson,40,Female,San Antonio,2022-04-12,611.96,4
+CUST00994,Jennifer Rodriguez,32,Female,New York,2024-05-17,440.7,4
+CUST00771,William Gonzalez,47,Female,Houston,2022-12-11,357.42,1
+CUST00331,Jessica Gonzalez,49,Female,Philadelphia,2020-02-13,377.78,5
+CUST00453,Elizabeth Gonzalez,53,Female,Philadelphia,2020-11-26,86.09,5
+CUST00734,Michael Davis,51,Female,Los Angeles,2022-09-16,238.71,5
+CUST00366,Elizabeth Thomas,40,Female,Phoenix,2020-06-05,185.44,5
+CUST00282,Elizabeth Martinez,40,Female,Dallas,2019-10-22,132.05,4
+CUST00865,John Gonzalez,33,Male,Chicago,2023-07-20,284.71,5
+CUST00781,Karen Miller,50,Male,Houston,2023-01-04,256.81,1
+CUST00813,Sarah Brown,36,Female,Unknown,2023-03-20,114.86,5
+CUST00908,Thomas Lopez,42,Female,Houston,2023-10-29,327.64,2
+CUST00464,Jessica Gonzalez,29,Female,San Jose,2020-12-21,129.09,4
+CUST00799,Richard Gonzalez,34,Male,Houston,2023-02-15,505.1,2
+CUST00208,Linda Thomas,27,Female,Phoenix,2019-05-01,330.54,4
+CUST00514,Thomas Wilson,28,Male,Philadelphia,2021-04-18,382.91,4
+CUST00219,John Smith,37,Female,San Diego,2019-05-27,67.62,3
+CUST00240,James Thomas,54,Male,San Jose,2019-07-15,252.84,5
+CUST00834,Robert Davis,30,Female,Los Angeles,2023-05-08,589.55,3
+CUST00356,David Lopez,49,Male,Phoenix,2020-04-12,81.43,4
+CUST00565,Thomas Smith,27,Male,New York,2021-08-15,38.12,3
+CUST00193,Susan Davis,34,Female,New York,2019-03-27,97.19,1
+CUST00281,Unknown,37,Female,Houston,2019-10-19,209.66,3
+CUST00192,Robert Davis,56,Male,San Antonio,2019-03-24,571.77,4
+CUST00408,James Smith,42,Female,San Diego,2020-12-08,86.42,3
+CUST00431,Elizabeth Williams,40,Female,Houston,2020-10-05,185.98,4
+CUST00685,Michael Martinez,21,Female,Dallas,2022-05-24,106.48,5
+CUST00133,Michael Johnson,36,Male,New York,2018-11-06,781.6325,3
+CUST00707,Richard Rodriguez,40,Female,San Jose,2022-07-14,775.77,5
+CUST00524,Barbara Anderson,56,Female,Chicago,2021-11-05,151.38,3
+CUST00253,Michael Brown,34,Female,San Diego,2019-08-15,63.43,4
+CUST00751,Elizabeth Rodriguez,40,Female,Los Angeles,2022-10-26,485.05,4
+CUST00552,Susan Lopez,13,Male,San Antonio,2021-07-16,180.83,5
+CUST00264,Jessica Miller,41,Male,San Antonio,2019-09-09,252.84,5
+CUST00071,Joseph Martinez,40,Female,New York,2018-06-14,585.11,4
+CUST00273,James Davis,40,Female,Philadelphia,2019-09-30,145.52,5
+CUST00113,Mary Jones,47,Male,San Jose,2018-09-20,522.22,2
+CUST00328,Mary Jones,40,Female,Houston,2020-02-06,545.73,4
+CUST00116,Patricia Miller,33,Male,Unknown,2018-09-27,282.22,5
+CUST00324,Jennifer Miller,52,Male,Houston,2020-01-28,435.48,3
+CUST00503,Jennifer Garcia,35,Male,Houston,2021-03-23,242.23,4
+CUST00923,Patricia Smith,48,Female,Los Angeles,2023-12-03,110.09,4
+CUST00424,Sarah Johnson,47,Female,Phoenix,2020-09-19,538.03,3
+CUST00904,John Gonzalez,40,Female,San Antonio,2023-10-19,561.59,3
+CUST00665,Michael Williams,30,Male,San Jose,2022-07-04,87.5,4
+CUST00826,Richard Johnson,47,Male,Houston,2023-04-19,339.24,4
+CUST00516,Mary Anderson,32,Female,San Antonio,2021-04-22,290.51,3
+CUST00531,James Garcia,47,Female,San Diego,2021-05-28,252.84,5
+CUST00603,Linda Miller,37,Female,Houston,2021-11-12,781.6325,4
+CUST00861,John Thomas,41,Male,Chicago,2023-07-10,381.03,4
+CUST00653,Charles Hernandez,45,Female,San Jose,2022-10-03,369.65,4
+CUST00279,Robert Miller,49,Female,San Antonio,2019-10-15,436.42,5
+CUST00838,Thomas Rodriguez,44,Female,Los Angeles,2023-05-18,252.84,3
+CUST00694,Barbara Brown,21,Male,Houston,2022-06-14,119.66,4
+CUST00003,Linda Gonzalez,48,Male,Philadelphia,2018-01-05,508.98,2
+CUST00230,Elizabeth Wilson,40,Male,Los Angeles,2019-06-22,725.46,5
+CUST00504,Jessica Brown,36,Male,Philadelphia,2021-03-25,280.25,4
+CUST00989,Sarah Anderson,42,Female,Chicago,2024-05-06,261.32,2
+CUST00867,Linda Gonzalez,66,Male,Unknown,2023-07-25,176.44,5
+CUST00913,Joseph Gonzalez,25,Male,Los Angeles,2023-11-09,439.34,4
+CUST00619,Susan Davis,50,Male,Houston,2021-12-20,51.97,5
+CUST00200,David Garcia,54,Female,San Jose,2019-04-12,545.76,4
+CUST00372,Sarah Lopez,52,Female,Dallas,2020-05-20,534.45,4
+CUST00915,Robert Brown,48,Male,Houston,2023-11-14,295.47,5
+CUST00405,Susan Smith,53,Male,New York,2020-08-05,133.78,1
+CUST00438,Jennifer Jones,14,Male,San Antonio,2020-10-21,339.85,3
+CUST00951,Karen Miller,40,Male,New York,2024-02-07,361.96,4
+CUST00066,Joseph Wilson,43,Female,Philadelphia,2018-06-02,678.48,5
+CUST00308,Karen Williams,45,Female,San Diego,2019-12-22,66.4,2
+CUST00041,Linda Wilson,39,Male,Unknown,2018-04-04,159.0,1
+CUST00591,Joseph Gonzalez,44,Male,Chicago,2021-10-15,328.66,4
+CUST00794,Richard Martinez,43,Male,Los Angeles,2023-03-02,301.76,4
+CUST00866,Thomas Johnson,24,Female,Chicago,2023-07-22,333.6,3
+CUST00505,David Wilson,35,Male,San Jose,2021-03-28,781.6325,5
+CUST00542,Robert Wilson,41,Male,Los Angeles,2021-06-22,183.05,4
+CUST00604,Joseph Martinez,54,Female,Philadelphia,2021-11-15,432.57,5
+CUST00274,Elizabeth Hernandez,45,Male,Chicago,2019-10-03,114.12,5
+CUST00744,Richard Hernandez,42,Male,San Jose,2022-10-09,274.9,4
+CUST00672,Robert Davis,31,Male,San Jose,2022-04-23,229.2,4
+CUST00686,Michael Smith,42,Male,Chicago,2022-05-26,460.0,3
+CUST00809,Michael Brown,36,Female,Houston,2023-03-11,57.12,4
+CUST00178,Jessica Williams,23,Male,Dallas,2019-02-20,429.08,3
+CUST00301,Richard Hernandez,10,Male,Chicago,2019-12-05,167.0,3
+CUST00038,Elizabeth Wilson,44,Female,Houston,2018-03-28,284.92,4
+CUST00354,Joseph Jones,28,Male,Los Angeles,2020-04-07,269.25,4
+CUST00203,Robert Johnson,71,Female,Los Angeles,2019-04-19,252.84,4
+CUST00237,Mary Thomas,61,Female,San Antonio,2019-07-08,280.07,5
+CUST00150,James Davis,40,Male,Philadelphia,2018-12-16,36.44,4
+CUST00724,Michael Martinez,57,Female,Houston,2022-08-23,781.6325,4
+CUST00448,Robert Thomas,47,Male,New York,2020-11-14,92.32,5
+CUST00218,David Lopez,48,Male,San Diego,2019-05-24,202.25,2
+CUST00919,Joseph Thomas,30,Female,Unknown,2023-11-24,25.13,4
+CUST00474,Susan Hernandez,26,Male,Chicago,2021-01-14,350.02,5
+CUST00588,Joseph Brown,32,Male,New York,2021-08-10,179.29,3
+CUST00652,Richard Wilson,18,Female,Chicago,2022-03-07,655.23,5
+CUST00732,David Thomas,42,Female,San Antonio,2022-11-09,181.01,5
+CUST00303,Patricia Lopez,66,Female,Los Angeles,2019-12-10,191.72,3
+CUST00968,Jennifer Thomas,19,Male,Chicago,2024-03-17,781.6325,4
+CUST00976,Susan Thomas,30,Male,Dallas,2024-05-04,266.9,4
+CUST00716,Mary Smith,44,Male,San Jose,2022-08-04,59.19,3
+CUST00984,James Gonzalez,30,Male,San Diego,2024-04-24,200.1,4
+CUST00389,Joseph Smith,40,Male,New York,2020-06-28,129.77,3
+CUST00479,Richard Johnson,43,Female,Phoenix,2021-01-26,492.55,4
+CUST00492,Joseph Garcia,44,Female,Los Angeles,2021-02-25,252.84,5
+CUST00423,Mary Garcia,40,Male,San Antonio,2020-09-16,428.97,3
+CUST00388,James Johnson,39,Male,New York,2020-06-26,330.36,5
+CUST00858,Mary Davis,32,Male,San Jose,2023-07-03,252.84,3
+CUST00391,Thomas Gonzalez,44,Male,Phoenix,2020-07-03,135.52,4
+CUST00535,Mary Gonzalez,45,Female,Phoenix,2021-06-06,149.51,5
+CUST00353,Richard Gonzalez,46,Male,San Antonio,2020-04-05,233.48,3
+CUST00194,Sarah Thomas,46,Female,Unknown,2019-03-29,255.68,3
+CUST00236,James Anderson,63,Female,Los Angeles,2019-07-06,406.04,5
+CUST00769,Sarah Rodriguez,39,Male,San Jose,2022-12-07,226.92,3
+CUST00888,Sarah Brown,54,Female,Dallas,2023-09-12,252.84,4
+CUST00481,Charles Anderson,24,Female,Los Angeles,2021-01-30,90.97,4
+CUST00056,Michael Martinez,57,Female,San Diego,2018-05-09,527.7,2
+CUST00117,David Davis,0,Female,Los Angeles,2018-09-30,185.57,3
+CUST00097,Charles Martinez,25,Female,San Jose,2018-08-14,276.24,4
+CUST00142,Thomas Johnson,35,Female,Los Angeles,2018-11-27,10.88,4
+CUST00916,Barbara Miller,34,Male,San Antonio,2023-11-16,178.45,3
+CUST00757,Barbara Williams,61,Male,New York,2022-11-09,467.2,5
+CUST00598,David Hernandez,13,Female,Dallas,2021-11-01,606.26,2
+CUST00701,Thomas Martinez,46,Female,New York,2022-06-30,255.48,3
+CUST00121,Mary Garcia,44,Female,San Diego,2018-10-09,619.54,4
+CUST00801,Robert Hernandez,50,Female,Dallas,2023-02-20,119.95,4
+CUST00772,Joseph Thomas,54,Female,Phoenix,2022-12-14,371.76,5
+CUST00369,Linda Martinez,28,Male,New York,2020-05-13,323.31,5
+CUST00063,Barbara Davis,59,Male,San Diego,2018-05-26,152.28,4
+CUST00808,Elizabeth Wilson,41,Male,Dallas,2023-03-08,550.85,2
+CUST01000,Karen Wilson,48,Female,New York,2024-01-06,686.06,3
+CUST00454,Jennifer Smith,30,Female,Dallas,2020-11-28,45.29,2
+CUST00779,Linda Johnson,51,Female,Phoenix,2022-12-30,26.81,5
+CUST00415,James Garcia,30,Male,San Antonio,2020-08-28,620.23,5
+CUST00004,Michael Martinez,64,Female,San Diego,2018-01-08,444.71,3
+CUST00059,Linda Lopez,39,Female,San Diego,2018-05-17,123.24,4
+CUST00224,Richard Thomas,53,Male,Houston,2019-08-06,156.23,2
+CUST00222,John Miller,33,Female,Unknown,2019-03-06,512.77,5
+CUST00466,Patricia Smith,34,Male,San Jose,2020-12-26,204.68,4
+CUST00053,Robert Williams,60,Female,Philadelphia,2018-02-05,86.94,2
+CUST00486,Thomas Gonzalez,51,Female,Houston,2021-02-11,405.4,5
+CUST00967,Joseph Anderson,14,Female,Houston,2024-03-15,479.78,3
+CUST00708,Michael Rodriguez,38,Male,Chicago,2022-07-17,170.97,3
+CUST00156,Robert Rodriguez,40,Male,New York,2018-12-30,556.04,4
+CUST00706,Linda Johnson,45,Male,San Antonio,2022-07-12,277.41,5
+CUST00682,Karen Jones,30,Male,Houston,2022-05-17,228.44,2
+CUST00249,Susan Wilson,54,Male,Dallas,2019-08-05,301.23,2
+CUST00442,Charles Anderson,40,Male,San Diego,2020-10-31,442.29,5
+CUST00902,Mary Anderson,39,Male,Los Angeles,2023-10-15,589.97,3
+CUST00118,Thomas Anderson,40,Female,San Antonio,2018-02-10,19.79,5
+CUST00569,Charles Miller,42,Male,Philadelphia,2021-08-25,234.29,4
+CUST00710,Patricia Martinez,57,Male,Houston,2022-07-21,66.77,4
+CUST00292,Robert Thomas,31,Female,Houston,2019-11-14,456.78,4
+CUST00382,Charles Thomas,47,Female,San Diego,2020-12-06,556.26,5
+CUST00636,Mary Hernandez,34,Male,San Jose,2022-01-29,87.23,3
+CUST00201,Jessica Miller,28,Female,Los Angeles,2019-04-15,212.59,5
+CUST00761,Thomas Anderson,34,Male,Phoenix,2022-11-18,75.77,5
+CUST00961,Mary Davis,65,Male,Chicago,2024-01-03,247.17,4
+CUST00506,William Miller,35,Male,San Jose,2021-03-30,591.09,3
+CUST00814,Sarah Wilson,27,Male,Phoenix,2023-03-22,162.13,5
+CUST00341,Charles Miller,40,Female,Unknown,2020-08-03,9.12,4
+CUST00155,Robert Thomas,41,Female,Phoenix,2018-12-28,252.84,5
+CUST00914,Barbara Brown,41,Male,Phoenix,2023-11-12,181.49,4
+CUST00595,Mary Hernandez,46,Male,San Jose,2021-10-25,219.47,4
+CUST00776,Joseph Jones,32,Female,Chicago,2022-12-23,252.84,4
+CUST00953,Barbara Jones,29,Male,Philadelphia,2024-02-11,297.78,4
+CUST00323,Barbara Smith,40,Female,Philadelphia,2020-01-26,223.3,2
+CUST00642,Jennifer Jones,37,Male,Dallas,2022-12-02,290.65,4
+CUST00624,Susan Brown,30,Female,New York,2022-01-01,166.35,5
+CUST00083,Mary Martinez,66,Male,New York,2018-07-12,11.17,4
+CUST00621,David Miller,59,Male,San Jose,2021-12-25,554.85,3
+CUST00465,Thomas Martinez,58,Male,Dallas,2020-12-24,243.37,4
+CUST00871,Linda Hernandez,40,Male,New York,2023-08-03,100.67,5
+CUST00703,Thomas Johnson,37,Female,New York,2022-07-05,189.98,4
+CUST00334,Michael Rodriguez,55,Female,New York,2020-02-21,157.28,3
+CUST00471,Susan Martinez,38,Male,Chicago,2021-07-01,252.84,4
+CUST00033,Patricia Johnson,45,Male,Houston,2018-03-17,139.3,5
+CUST00818,William Anderson,50,Male,Philadelphia,2023-01-04,26.33,5
+CUST00988,Susan Martinez,23,Male,Houston,2024-05-03,275.99,3
+CUST00383,John Anderson,53,Female,New York,2020-06-14,117.84,4
+CUST00645,Sarah Jones,40,Male,San Diego,2022-02-19,122.7,4
+CUST00853,William Williams,33,Female,New York,2023-06-22,121.39,3
+CUST00957,Thomas Wilson,39,Male,San Antonio,2024-02-21,116.1,2
+CUST00966,Sarah Wilson,44,Male,San Diego,2024-03-13,422.57,4
+CUST00379,Richard Wilson,19,Female,Dallas,2020-06-05,781.6325,2
+CUST00090,James Smith,42,Female,Phoenix,2018-07-28,781.6325,4
+CUST00214,Charles Rodriguez,29,Male,San Diego,2019-05-15,288.05,5
+CUST00890,Richard Gonzalez,42,Male,Los Angeles,2023-09-17,327.43,5
+CUST00347,James Williams,51,Female,Dallas,2020-03-22,134.81,5
+CUST00669,James Miller,44,Male,San Jose,2022-04-16,508.41,4
+CUST00008,Robert Garcia,40,Female,Los Angeles,2018-01-17,41.87,3
+CUST00657,Charles Johnson,40,Male,Phoenix,2022-03-19,359.16,4
+CUST00321,Barbara Rodriguez,40,Male,Houston,2020-01-21,206.29,5
+CUST00830,Charles Gonzalez,66,Male,Dallas,2023-04-29,70.89,4
+CUST00188,James Thomas,34,Female,Phoenix,2019-03-15,416.21,4
+CUST00553,Robert Jones,7,Male,San Jose,2021-07-18,218.69,3
+CUST00305,Barbara Rodriguez,40,Female,Philadelphia,2019-12-14,90.77,3
+CUST00032,Sarah Davis,46,Male,Phoenix,2018-03-14,25.43,2
+CUST00651,Michael Smith,64,Female,Dallas,2022-03-05,404.95,3
+CUST00241,Michael Thomas,48,Female,San Diego,2019-07-17,651.08,3
+CUST00774,Michael Smith,45,Male,Houston,2022-12-18,430.51,3
+CUST00175,James Lopez,26,Female,Unknown,2019-02-13,254.32,4
+CUST00246,Susan Lopez,61,Female,New York,2019-07-29,150.14,3
+CUST00057,William Lopez,9,Male,San Diego,2018-12-05,343.69,4
+CUST00146,William Rodriguez,54,Female,San Antonio,2018-12-07,174.3,2
+CUST00091,Karen Gonzalez,34,Female,San Jose,2018-07-31,384.19,2
+CUST00393,William Williams,50,Male,San Diego,2020-07-08,273.6,5
+CUST00311,Barbara Rodriguez,35,Male,Chicago,2019-12-29,95.65,4
+CUST00360,Sarah Anderson,40,Male,San Diego,2020-04-21,392.96,5
+CUST00094,Linda Hernandez,53,Male,Houston,2018-08-07,48.07,4
+CUST00737,Joseph Davis,22,Female,Los Angeles,2022-09-23,764.49,4
+CUST00797,Robert Martinez,23,Female,Philadelphia,2023-10-02,76.35,5
+CUST00377,Karen Gonzalez,50,Male,Dallas,2020-05-31,361.56,5
+CUST00244,Jessica Williams,50,Female,San Antonio,2019-07-24,172.02,5
+CUST00873,James Garcia,47,Male,Philadelphia,2023-08-08,203.94,3
+CUST00088,David Thomas,54,Male,Chicago,2018-07-24,371.58,4
+CUST00215,Thomas Brown,45,Male,San Diego,2019-05-17,496.89,4
+CUST00445,Unknown,25,Female,San Jose,2020-11-07,565.86,5
+CUST00174,Mary Jones,38,Male,San Diego,2019-02-10,122.28,3
+CUST00426,Joseph Hernandez,48,Male,Houston,2020-09-23,713.16,4
+CUST00822,John Hernandez,45,Female,San Jose,2023-10-04,109.66,2
+CUST00119,Jennifer Davis,48,Male,Unknown,2018-10-04,335.37,4
+CUST00120,John Brown,34,Female,Los Angeles,2018-10-07,121.45,3
+CUST00001,Michael Brown,36,Male,San Jose,2018-01-01,111.16,3
+CUST00395,Jessica Miller,40,Female,San Diego,2020-07-13,554.39,4
+CUST00402,Elizabeth Williams,38,Male,Philadelphia,2020-07-29,191.93,4
+CUST00656,Jessica Davis,37,Female,Los Angeles,2022-03-17,458.72,4
+CUST00663,Patricia Smith,33,Male,Philadelphia,2022-02-04,616.17,5
+CUST00163,James Wilson,41,Female,San Diego,2019-01-15,200.16,4
+CUST00115,Jennifer Thomas,34,Male,Philadelphia,2018-09-25,308.89,4
+CUST00151,Karen Hernandez,67,Female,Chicago,2018-12-18,134.23,4
+CUST00625,James Anderson,34,Female,San Antonio,2022-03-01,167.27,2
+CUST00627,Joseph Jones,41,Male,New York,2022-01-08,151.81,4
+CUST00497,William Jones,43,Male,Houston,2021-03-09,192.94,1
+CUST00544,Barbara Johnson,30,Female,San Diego,2021-06-27,724.89,3
+CUST00478,Joseph Lopez,47,Female,Dallas,2021-01-23,105.04,3
+CUST00533,Elizabeth Jones,29,Male,Phoenix,2021-01-06,90.73,4
+CUST00513,Joseph Garcia,49,Female,Phoenix,2021-04-15,134.73,3
+CUST00346,William Miller,40,Male,New York,2020-03-20,252.84,3
+CUST00259,Elizabeth Martinez,37,Female,Chicago,2019-08-29,473.83,4
+CUST00972,Linda Hernandez,57,Female,Dallas,2024-03-27,174.53,3
+CUST00136,Sarah Miller,36,Female,New York,2018-11-13,208.42,4
+CUST00617,William Garcia,40,Male,Chicago,2021-12-15,367.15,4
+CUST00980,Sarah Lopez,46,Female,Houston,2024-04-15,176.54,5
+CUST00675,Robert Williams,44,Male,San Jose,2022-04-30,92.66,4
+CUST00593,Joseph Brown,30,Male,Phoenix,2021-10-20,481.86,1
+CUST00844,Robert Thomas,49,Male,New York,2023-01-06,632.19,1
+CUST00502,James Jones,47,Male,New York,2021-03-21,781.6325,5
+CUST00539,Thomas Rodriguez,50,Male,Philadelphia,2021-06-15,563.51,3
+CUST00695,John Jones,50,Male,Philadelphia,2022-06-16,251.15,3
+CUST00582,James Wilson,35,Male,Philadelphia,2021-09-24,165.08,4
+CUST00344,Karen Lopez,37,Female,San Antonio,2020-03-15,425.92,3
+CUST00719,Barbara Miller,33,Male,San Jose,2022-08-11,77.35,3
+CUST00907,Patricia Hernandez,40,Male,Chicago,2023-10-26,678.34,3
+CUST00294,Thomas Miller,40,Male,San Diego,2019-11-19,90.97,5
+CUST00365,David Lopez,37,Male,San Jose,2020-05-03,289.34,3
+CUST00668,Mary Lopez,40,Male,Philadelphia,2022-04-14,76.67,4
+CUST00015,Elizabeth Thomas,21,Female,San Jose,2018-02-02,781.6325,5
+CUST00087,Karen Wilson,20,Male,Chicago,2018-07-21,133.03,4
+CUST00371,Linda Martinez,22,Male,Houston,2020-05-17,274.8,2
+CUST00166,Robert Smith,20,Female,San Diego,2019-01-22,545.56,2
+CUST00933,Joseph Thomas,53,Female,Dallas,2023-12-26,136.57,3
+CUST00336,Patricia Garcia,16,Female,San Diego,2020-02-25,88.28,4
+CUST00060,Mary Smith,31,Male,Philadelphia,2018-05-19,367.76,4
+CUST00355,Jessica Garcia,40,Male,Los Angeles,2020-04-10,223.09,4
+CUST00425,Sarah Wilson,36,Male,Unknown,2020-09-21,219.7,4
+CUST00293,Patricia Johnson,56,Male,San Antonio,2019-11-16,77.71,5
+CUST00042,Linda Jones,36,Female,New York,2018-04-07,120.85,2
+CUST00330,Charles Davis,28,Male,New York,2020-02-11,282.21,5
+CUST00615,John Davis,40,Female,New York,2021-12-11,488.0,3
+CUST00430,Joseph Lopez,28,Male,New York,2020-10-03,186.31,3
+CUST00029,Linda Anderson,36,Female,Philadelphia,2018-03-07,104.32,4
+CUST00255,John Miller,24,Male,Dallas,2019-08-19,95.4,2
+CUST00796,Mary Miller,18,Female,Houston,2023-08-02,401.12,5
+CUST00459,Richard Hernandez,33,Male,Los Angeles,2020-12-10,269.56,4
+CUST00384,Mary Martinez,46,Male,San Diego,2020-06-17,384.31,3
+CUST00314,Jessica Rodriguez,40,Female,New York,2020-01-05,124.01,4
+CUST00085,Jennifer Lopez,24,Male,Unknown,2018-07-17,288.44,3
+CUST00575,Joseph Gonzalez,53,Female,Chicago,2021-09-08,309.23,4
+CUST00137,Elizabeth Williams,55,Female,San Diego,2018-11-15,252.84,4
+CUST00112,Charles Wilson,40,Male,New York,2018-09-18,151.24,4
+CUST00195,Joseph Garcia,51,Female,San Jose,2019-03-31,225.86,3
+CUST00179,Patricia Williams,34,Female,Chicago,2019-02-22,120.86,5
+CUST00937,John Williams,41,Male,Los Angeles,2024-05-01,194.42,4
+CUST00130,Michael Brown,35,Male,San Jose,2018-10-30,776.83,4
+CUST00338,Barbara Garcia,33,Female,San Diego,2020-01-03,143.48,5
+CUST00609,James Anderson,39,Male,New York,2021-11-26,190.56,3
+CUST00125,Jennifer Thomas,42,Male,San Antonio,2018-10-18,781.6325,4
+CUST00227,Linda Brown,40,Male,San Jose,2019-06-15,102.54,3
+CUST00269,James Smith,36,Male,San Jose,2019-09-21,212.73,3
+CUST00153,Patricia Garcia,14,Female,San Jose,2018-12-23,58.3,4
+CUST00585,John Hernandez,45,Male,Chicago,2021-01-10,514.67,4
+CUST00104,Michael Johnson,37,Male,San Antonio,2018-08-30,65.57,2
+CUST00594,Barbara Gonzalez,38,Female,Philadelphia,2021-10-22,317.43,4
+CUST00903,Joseph Wilson,23,Female,Houston,2023-10-17,781.6325,2
+CUST00697,William Johnson,34,Male,Unknown,2022-06-21,164.17,4
+CUST00228,Jessica Gonzalez,31,Male,Philadelphia,2019-06-17,781.6325,5
+CUST00935,Karen Garcia,61,Male,Houston,2023-12-31,104.07,3
+CUST00302,Charles Smith,40,Male,Philadelphia,2019-12-07,368.23,4
+CUST00276,Richard Lopez,37,Female,Dallas,2019-10-07,18.97,5
+CUST00127,Patricia Williams,50,Male,Dallas,2018-10-23,563.37,4
+CUST00406,Charles Gonzalez,47,Female,Chicago,2020-08-07,781.6325,3
+CUST00684,Jessica Johnson,41,Female,New York,2022-05-21,206.73,5
+CUST00037,Barbara Johnson,77,Female,San Diego,2018-03-26,127.42,5
+CUST00140,Jessica Rodriguez,49,Male,Los Angeles,2018-11-23,252.84,4
+CUST00304,William Williams,48,Female,Philadelphia,2019-12-12,439.43,5
+CUST00268,Robert Lopez,48,Female,Houston,2019-09-19,169.91,3
+CUST00534,Elizabeth Lopez,53,Male,San Jose,2021-06-04,304.29,1
+CUST00546,David Rodriguez,60,Male,San Antonio,2021-02-07,311.29,4
+CUST00213,Mary Johnson,53,Female,San Diego,2019-05-13,264.35,5
+CUST00469,Karen Anderson,40,Female,San Jose,2021-01-02,272.39,3
+CUST00199,James Rodriguez,34,Male,San Antonio,2019-04-10,452.08,3
+CUST00673,Linda Garcia,34,Male,Dallas,2022-04-26,526.21,2
+CUST00528,David Anderson,49,Male,Dallas,2021-05-20,80.26,4
+CUST00676,James Lopez,39,Male,Houston,2022-03-05,437.52,3
+CUST00840,Thomas Gonzalez,71,Female,New York,2023-05-22,61.28,5
+CUST00242,John Garcia,40,Male,San Diego,2019-07-20,441.23,3
+CUST00343,Richard Johnson,25,Female,San Jose,2020-03-13,252.84,3
+CUST00550,Linda Hernandez,46,Male,San Jose,2021-07-11,270.21,4
+CUST00387,James Garcia,46,Female,San Antonio,2020-06-24,781.6325,3
+CUST00931,Robert Smith,29,Female,Houston,2023-12-22,315.56,4
+CUST00207,Karen Smith,34,Female,Houston,2019-04-29,330.77,3
+CUST00296,Thomas Miller,39,Female,Philadelphia,2019-11-23,93.32,5
+CUST00696,Jennifer Thomas,47,Male,San Antonio,2022-06-19,455.88,4
+CUST00944,Joseph Lopez,40,Male,San Diego,2024-01-21,358.43,3
+CUST00792,Richard Johnson,68,Male,Chicago,2023-01-30,381.18,3
+CUST00733,Patricia Smith,65,Male,New York,2022-09-13,61.45,5
+CUST00755,Barbara Williams,30,Female,San Antonio,2022-11-04,691.6,5
+CUST00017,Joseph Wilson,60,Female,Los Angeles,2018-07-02,449.44,4
+CUST00440,David Hernandez,36,Female,San Jose,2020-10-26,80.47,4
+CUST00092,William Williams,61,Male,Chicago,2018-02-08,166.91,4
+CUST00089,Michael Wilson,58,Male,Phoenix,2018-07-26,263.57,5
+CUST00451,Charles Williams,40,Female,Los Angeles,2020-11-21,222.91,1
+CUST00718,Jennifer Martinez,23,Male,Dallas,2022-08-09,141.43,4
+CUST00103,Karen Lopez,64,Male,Los Angeles,2018-08-28,361.7,3
+CUST00239,Linda Gonzalez,45,Male,Philadelphia,2019-07-13,256.62,3
+CUST00768,Linda Rodriguez,36,Female,San Antonio,2022-12-04,147.37,3
+CUST00247,John Anderson,20,Male,San Antonio,2019-07-31,211.08,5
+CUST00759,Thomas Gonzalez,34,Male,San Diego,2022-11-13,143.77,5
+CUST00158,Susan Johnson,27,Female,Los Angeles,2019-01-04,497.77,4
+CUST00480,Jennifer Williams,38,Female,San Jose,2021-01-28,231.53,2
+CUST00646,Thomas Miller,27,Female,San Antonio,2022-02-21,457.4,4
+CUST00894,Thomas Rodriguez,38,Female,Dallas,2023-09-26,205.17,2
+CUST00019,Karen Thomas,38,Female,Philadelphia,2018-02-12,124.61,5
+CUST00750,David Davis,20,Male,Philadelphia,2022-10-23,252.84,2
+CUST00122,David Anderson,46,Female,San Antonio,2018-10-11,85.1,2
+CUST00884,Charles Anderson,43,Male,San Jose,2023-09-02,88.71,4
+CUST00749,James Rodriguez,33,Female,San Antonio,2022-10-21,374.53,4
+CUST00275,Barbara Gonzalez,29,Male,San Antonio,2019-05-10,477.62,4
+CUST00434,Thomas Martinez,44,Male,San Jose,2020-10-12,262.87,4
+CUST00949,Linda Anderson,42,Female,San Antonio,2024-02-02,252.72,2
+CUST00312,Karen Hernandez,33,Male,San Jose,2019-12-31,241.3,4
+CUST00805,Barbara Rodriguez,52,Male,Philadelphia,2023-03-01,394.37,4
+CUST00883,David Gonzalez,30,Male,Philadelphia,2023-08-31,176.94,2
+CUST00547,Mary Lopez,45,Female,San Jose,2021-07-04,237.21,4
+CUST00182,Susan Jones,68,Male,Phoenix,2019-01-03,138.41,2
+CUST00185,Thomas Wilson,69,Male,San Antonio,2019-03-08,197.61,3
+CUST00407,Richard Brown,11,Female,Chicago,2020-08-10,105.98,4
+CUST00720,Elizabeth Garcia,24,Male,San Antonio,2022-08-14,254.37,3
+CUST00607,Richard Davis,38,Male,Los Angeles,2021-11-22,258.54,5
+CUST00693,Mary Williams,63,Male,New York,2022-06-11,139.25,5
+CUST00521,Patricia Williams,53,Male,Philadelphia,2021-05-04,131.03,3
+CUST00381,Jennifer Johnson,35,Male,San Diego,2020-06-10,214.16,3
+CUST00411,Linda Miller,33,Male,Chicago,2020-08-19,128.52,4
+CUST00635,Sarah Hernandez,55,Male,Houston,2022-01-26,252.84,3
+CUST00370,Patricia Martinez,47,Male,Dallas,2020-05-15,265.21,5
+CUST00857,John Hernandez,38,Female,Los Angeles,2023-01-07,781.6325,5
+CUST00881,Jennifer Lopez,55,Female,San Diego,2023-08-26,606.85,4
+CUST00800,Sarah Thomas,39,Female,Houston,2023-02-17,359.08,4
+CUST00079,Joseph Hernandez,33,Male,Philadelphia,2018-02-07,298.32,1
+CUST00574,Karen Anderson,49,Female,Philadelphia,2021-09-05,178.69,4
+CUST00638,David Hernandez,14,Male,Chicago,2022-02-02,781.6325,3
+CUST00608,Sarah Rodriguez,38,Male,Houston,2021-11-24,20.47,1
+CUST00841,Elizabeth Williams,36,Female,San Antonio,2023-05-25,213.5,4
+CUST00069,Susan Miller,53,Female,Chicago,2018-09-06,318.56,3
+CUST00879,Richard Rodriguez,43,Female,San Diego,2023-08-22,123.43,4
+CUST00978,Karen Smith,30,Female,San Antonio,2024-04-10,295.39,5
+CUST00417,Thomas Thomas,51,Male,Philadelphia,2020-09-02,274.82,4
+CUST00789,Barbara Miller,25,Female,Phoenix,2023-01-23,275.75,2
+CUST00562,Charles Gonzalez,50,Male,Philadelphia,2021-08-08,340.97,4
+CUST00068,John Martinez,53,Female,San Jose,2018-06-07,441.22,3
+CUST00537,Karen Smith,24,Male,Phoenix,2021-06-11,407.03,3
+CUST00078,Michael Gonzalez,52,Male,Chicago,2018-06-30,151.92,4
+CUST00827,Michael Brown,32,Female,Chicago,2023-04-22,108.61,5
+CUST00639,Barbara Hernandez,30,Female,Philadelphia,2022-02-05,576.3,4
+CUST00560,Linda Miller,28,Female,New York,2021-08-04,524.12,5
+CUST00807,Barbara Anderson,35,Male,Houston,2023-03-06,189.91,4
+CUST00691,John Brown,45,Male,Chicago,2022-06-07,205.62,5
+CUST00918,Jennifer Anderson,34,Female,Phoenix,2023-11-21,4.89,4
+CUST00993,Robert Hernandez,58,Male,New York,2024-05-15,256.35,4
+CUST00736,Mary Miller,46,Male,San Jose,2022-09-20,286.11,5
+CUST00872,Richard Gonzalez,39,Male,Los Angeles,2023-08-05,44.94,4
+CUST00491,Joseph Brown,44,Male,Dallas,2021-02-23,125.64,5
+CUST00985,Karen Martinez,57,Female,Philadelphia,2024-04-26,165.18,1
+CUST00606,Barbara Martinez,29,Female,Los Angeles,2021-11-19,131.45,3
+CUST00364,Robert Thomas,26,Male,Unknown,2020-05-01,44.8,4
+CUST00070,William Anderson,36,Male,Chicago,2018-06-11,564.59,3
+CUST00549,James Davis,35,Female,Philadelphia,2021-07-09,113.9,3
+CUST00161,William Brown,47,Male,San Jose,2019-01-11,398.05,3
+CUST00145,John Thomas,24,Female,New York,2018-12-04,689.65,4
+CUST00518,Charles Gonzalez,59,Male,Los Angeles,2021-04-27,206.73,3
+CUST00428,Mary Brown,27,Female,Philadelphia,2020-09-28,205.34,5
+CUST00640,Charles Garcia,38,Male,San Diego,2022-02-07,394.94,4
+CUST00177,James Jones,39,Male,San Diego,2019-02-17,592.34,2
+CUST00441,Jessica Hernandez,44,Female,Chicago,2020-10-28,398.01,2
+CUST00522,Karen Smith,50,Male,San Diego,2021-06-05,77.99,4
+CUST00921,Mary Wilson,64,Female,Los Angeles,2023-11-28,163.57,5
+CUST00997,William Johnson,65,Female,Philadelphia,2024-05-24,396.87,5
+CUST00689,Sarah Johnson,43,Male,San Diego,2022-02-06,411.32,4
+CUST00232,Charles Lopez,24,Male,San Diego,2019-06-26,252.84,4
+CUST00211,Charles Miller,21,Female,Phoenix,2019-05-08,326.72,3
+CUST00641,Michael Brown,40,Female,San Diego,2022-02-10,347.64,3
+CUST00144,Barbara Jones,29,Male,Los Angeles,2018-02-12,287.52,5
+CUST00754,John Lopez,50,Male,San Antonio,2022-11-02,508.0,4
+CUST00520,Jennifer Martinez,45,Male,Chicago,2021-02-05,371.41,3
+CUST00349,Thomas Rodriguez,25,Male,Los Angeles,2020-03-27,457.48,3
+CUST00299,Thomas Smith,16,Female,Phoenix,2019-11-30,556.29,3
+CUST00767,Jessica Garcia,36,Female,Phoenix,2022-12-02,590.66,4
+CUST00429,Jennifer Smith,40,Male,San Jose,2020-09-30,197.94,1
+CUST00613,Jessica Brown,36,Male,Chicago,2021-12-06,271.67,2
+CUST00983,William Gonzalez,55,Male,Philadelphia,2024-04-22,392.12,4
+CUST00992,Linda Hernandez,44,Female,Phoenix,2024-05-13,558.75,4
+CUST00009,Mary Davis,37,Female,San Jose,2018-01-19,196.94,2
+CUST00157,Sarah Thomas,45,Male,Philadelphia,2019-01-01,229.78,5
+CUST00540,David Anderson,51,Male,Phoenix,2021-06-18,155.56,4
+CUST00507,Robert Williams,23,Male,Houston,2021-04-01,149.5,4
+CUST00437,John Johnson,50,Male,Houston,2020-10-19,283.76,4
+CUST00267,Barbara Johnson,56,Male,San Diego,2019-09-16,356.17,3
+CUST00462,Joseph Davis,46,Female,San Diego,2020-12-17,328.42,5
+CUST00577,Michael Hernandez,40,Female,New York,2021-12-09,492.51,3
+CUST00339,Michael Hernandez,60,Female,Los Angeles,2020-03-03,109.62,2
+CUST00256,Elizabeth Garcia,50,Male,Philadelphia,2019-08-22,126.12,5
+CUST00859,Joseph Garcia,36,Female,San Diego,2023-07-06,458.77,1
+CUST00899,Charles Wilson,40,Female,Dallas,2023-10-08,252.84,1
+CUST00666,Elizabeth Martinez,54,Female,Houston,2022-09-04,370.24,3
+CUST00561,Linda Wilson,39,Female,San Antonio,2021-08-06,707.05,4
+CUST00209,Susan Thomas,40,Male,Houston,2019-05-03,353.25,4
+CUST00288,Patricia Rodriguez,35,Female,Chicago,2019-11-05,155.7,3
+CUST00002,Joseph Hernandez,69,Female,San Jose,2018-03-01,318.73,4
+CUST00342,Robert Gonzalez,51,Female,San Diego,2020-03-10,100.58,5
+CUST00270,Charles Hernandez,26,Male,Phoenix,2019-09-23,295.14,3
+CUST00266,Karen Davis,18,Male,Dallas,2019-09-14,310.16,5
+CUST00862,Sarah Garcia,30,Female,San Jose,2023-07-13,388.71,3
+CUST00869,Robert Davis,36,Female,Philadelphia,2023-07-29,425.06,4
+CUST00096,John Smith,41,Female,Los Angeles,2018-11-08,317.04,3
+CUST00043,Jessica Gonzalez,58,Female,San Diego,2018-04-09,186.31,3
+CUST00850,Mary Hernandez,39,Female,Los Angeles,2023-06-15,140.46,4
+CUST00399,Robert Jones,44,Male,Philadelphia,2020-07-22,78.97,5
+CUST00629,William Martinez,44,Female,Houston,2022-12-01,43.63,2
+CUST00046,Joseph Gonzalez,40,Male,Philadelphia,2018-04-16,496.69,4
+CUST00162,James Brown,41,Female,San Diego,2019-01-13,185.94,3
+CUST00728,David Smith,32,Female,Phoenix,2022-09-02,154.69,5
+CUST00630,Karen Rodriguez,59,Female,Philadelphia,2022-01-15,424.37,4
+CUST00289,Patricia Martinez,26,Male,Dallas,2019-11-07,183.33,4
+CUST00576,James Brown,31,Female,San Diego,2021-09-10,781.6325,3
+CUST00851,William Davis,50,Female,New York,2023-06-17,339.41,4
+CUST00316,Elizabeth Martinez,49,Male,Houston,2020-01-09,781.6325,3
+CUST00942,Thomas Rodriguez,28,Male,Houston,2024-01-16,254.26,1
+CUST00231,Charles Smith,49,Female,Philadelphia,2019-06-24,249.47,4
+CUST00810,John Smith,41,Male,Dallas,2023-03-13,340.15,3
+CUST00699,Karen Martinez,36,Male,Dallas,2022-06-26,172.77,4
+CUST00875,Linda Lopez,25,Female,Philadelphia,2023-08-12,175.33,4
+CUST00712,John Hernandez,43,Male,Dallas,2022-07-26,251.94,5
+CUST00077,John Miller,38,Female,Phoenix,2018-06-28,373.42,4
+CUST00634,Mary Miller,29,Female,San Diego,2022-01-24,331.76,2
+CUST00648,William Smith,46,Female,Chicago,2022-02-26,250.75,5
+CUST00248,Thomas Wilson,25,Female,San Jose,2019-08-03,252.84,3
+CUST00820,Patricia Lopez,52,Male,Houston,2023-04-05,123.54,3
+CUST00825,David Wilson,53,Female,San Antonio,2023-04-17,187.34,4
+CUST00477,Susan Hernandez,36,Male,Chicago,2021-01-21,238.34,4
+CUST00671,Linda Smith,45,Male,San Diego,2022-04-21,489.61,4
+CUST00086,Barbara Lopez,22,Male,San Jose,2018-07-19,275.31,3
+CUST00470,Joseph Anderson,30,Female,Chicago,2021-01-04,107.33,5
+CUST00226,Joseph Williams,42,Male,Phoenix,2019-06-12,183.09,3
+CUST00775,Michael Wilson,49,Male,Houston,2022-12-21,275.29,3
+CUST00332,James Garcia,40,Female,Houston,2020-02-16,190.96,3
+CUST00234,William Lopez,21,Female,San Antonio,2019-07-01,178.92,3
+CUST00589,Richard Davis,33,Female,Phoenix,2021-10-11,148.57,5
+CUST00476,Robert Anderson,49,Female,New York,2021-01-19,70.84,4
+CUST00943,Barbara Johnson,20,Male,Phoenix,2024-01-19,258.38,5
+CUST00922,Mary Gonzalez,41,Male,San Diego,2023-12-01,252.84,4
+CUST00600,David Wilson,40,Male,San Jose,2021-11-05,159.12,4
+CUST00422,Michael Garcia,39,Female,Philadelphia,2020-09-14,441.7,3
+CUST00688,Charles Brown,60,Male,Philadelphia,2022-05-31,63.04,3
+CUST00183,Jennifer Williams,46,Female,Unknown,2019-03-03,56.91,5
+CUST00618,Charles Gonzalez,57,Female,Houston,2021-12-18,315.16,4
+CUST00333,Karen Smith,20,Male,Unknown,2020-02-18,527.23,5
+CUST00439,Mary Gonzalez,27,Female,Chicago,2020-10-24,111.79,2
+CUST00929,Susan Brown,40,Male,Houston,2023-12-17,115.67,4
+CUST00006,David Hernandez,46,Female,Dallas,2018-12-01,645.18,3
+CUST00530,David Williams,38,Male,New York,2021-05-25,152.78,5
+CUST00235,James Martinez,33,Male,Philadelphia,2019-07-03,354.66,2
+CUST00487,Karen Rodriguez,48,Female,San Antonio,2021-02-13,287.04,4
+CUST00958,Barbara Brown,17,Female,San Diego,2024-02-23,486.6,4
+CUST00498,Jennifer Brown,0,Male,New York,2021-03-11,254.83,5
+CUST00885,Elizabeth Martinez,41,Male,Phoenix,2023-05-09,465.14,4
+CUST00952,Robert Gonzalez,40,Male,Dallas,2024-02-09,215.21,3
+CUST00107,Thomas Hernandez,42,Male,Chicago,2018-09-06,510.37,4
+CUST00444,David Garcia,65,Female,New York,2020-11-04,92.82,3
+CUST00489,Robert Rodriguez,54,Male,New York,2021-02-18,47.47,4
+CUST00647,Thomas Brown,26,Female,San Diego,2022-02-24,247.74,2
+CUST00013,Barbara Rodriguez,36,Female,Los Angeles,2018-01-29,555.36,5
+CUST00739,James Martinez,20,Male,New York,2022-09-27,220.08,4
+CUST00727,Mary Lopez,45,Female,Chicago,2022-08-30,403.94,5
+CUST00191,Elizabeth Anderson,41,Female,Phoenix,2019-03-22,88.39,3
+CUST00833,William Smith,54,Male,Phoenix,2023-05-06,499.98,3
+CUST00283,Mary Williams,45,Female,San Diego,2019-10-24,224.91,3
+CUST00030,Robert Wilson,44,Male,San Jose,2018-03-10,216.49,5
+CUST00170,Susan Wilson,52,Female,Houston,2019-01-02,252.84,3
+CUST00181,Thomas Lopez,46,Female,Houston,2019-02-27,610.13,2
+CUST00101,Thomas Wilson,29,Female,San Antonio,2018-08-23,773.34,5
+CUST00198,Thomas Davis,40,Male,Los Angeles,2019-04-08,176.21,5
+CUST00496,Charles Martinez,46,Male,Dallas,2021-06-03,342.87,3
+CUST00722,Linda Johnson,28,Male,Dallas,2022-08-18,509.23,2
+CUST00045,Richard Rodriguez,47,Male,Phoenix,2018-04-14,405.2,5
+CUST00990,Mary Martinez,42,Female,New York,2024-08-05,141.16,4
+CUST00711,Richard Johnson,40,Female,San Antonio,2022-07-24,278.7,2
+CUST00374,Patricia Thomas,40,Male,New York,2020-05-24,25.73,3
+CUST00679,Susan Thomas,43,Female,Chicago,2022-05-10,42.81,5
+CUST00938,James Martinez,40,Male,Philadelphia,2024-01-07,571.1,3
+CUST00649,Karen Garcia,41,Female,San Antonio,2022-02-28,714.07,2
+CUST00798,Mary Wilson,36,Female,Houston,2023-02-13,304.06,4
+CUST00848,William Brown,63,Female,San Antonio,2023-06-10,145.89,5
+CUST00461,Joseph Rodriguez,40,Male,San Jose,2020-12-14,608.93,1
+CUST00909,Thomas Martinez,42,Female,San Diego,2023-10-31,516.19,4
+CUST00414,Sarah Lopez,14,Male,Chicago,2020-08-26,256.77,3
+CUST00132,Linda Thomas,51,Male,Chicago,2018-11-04,781.6325,4
+CUST00040,Jessica Anderson,45,Female,Phoenix,2018-04-02,781.6325,5
+CUST00435,Thomas Lopez,30,Male,New York,2020-10-14,212.17,4
+CUST00216,Elizabeth Garcia,51,Male,San Diego,2019-05-20,133.65,4
+CUST00556,Susan Martinez,40,Male,Los Angeles,2021-07-25,478.91,3
+CUST00567,Mary Wilson,34,Male,Dallas,2021-08-20,781.6325,5
+CUST00763,Jessica Davis,39,Female,Phoenix,2022-11-23,197.26,4
+CUST00475,Charles Miller,47,Male,San Jose,2021-01-16,217.65,3
+CUST00457,Susan Johnson,34,Female,San Antonio,2020-12-05,277.3,1
+CUST00812,Richard Wilson,39,Female,Los Angeles,2023-03-18,252.84,1
+CUST00261,James Davis,22,Female,New York,2019-02-09,134.6,2
+CUST00817,Susan Anderson,26,Female,Phoenix,2023-03-29,130.96,1
+CUST00036,Sarah Martinez,49,Male,Philadelphia,2018-03-24,781.6325,3
+CUST00828,Patricia Hernandez,43,Female,San Jose,2023-04-24,547.83,3
+CUST00912,Susan Thomas,45,Female,Dallas,2023-11-07,221.75,3
+CUST00310,John Williams,34,Male,Philadelphia,2019-12-26,202.28,3
+CUST00277,Susan Johnson,50,Male,Chicago,2019-10-10,163.32,3
+CUST00637,Thomas Thomas,30,Male,Los Angeles,2022-01-31,351.48,5
+CUST00655,Thomas Gonzalez,49,Male,Los Angeles,2022-03-14,241.43,3
+CUST00623,John Jones,44,Female,San Diego,2021-12-29,193.15,4
+CUST00836,John Garcia,27,Male,San Jose,2023-05-13,252.84,3
+CUST00845,Robert Garcia,55,Female,San Antonio,2023-06-03,311.81,3
+CUST00394,James Jones,40,Male,San Antonio,2020-07-10,140.85,3
+CUST00999,Linda Johnson,61,Female,Chicago,2024-05-29,424.91,3
+CUST00108,Thomas Johnson,20,Female,Unknown,2018-09-08,113.37,4
+CUST00525,James Martinez,29,Male,San Diego,2021-05-13,479.66,2
+CUST00785,Robert Lopez,23,Female,Houston,2023-01-13,93.35,2
+CUST00048,Michael Rodriguez,21,Male,Phoenix,2018-04-21,287.54,3
+CUST00955,Susan Anderson,39,Male,Phoenix,2024-02-16,203.43,3
+CUST00204,Richard Lopez,45,Male,Philadelphia,2019-04-22,190.72,4
+CUST00986,Michael Johnson,42,Male,San Jose,2024-04-29,230.64,5
+CUST00632,Karen Rodriguez,41,Female,Phoenix,2022-01-19,96.05,4
+CUST00022,William Miller,16,Female,Philadelphia,2018-02-19,110.78,4
+CUST00403,Thomas Jones,33,Male,San Diego,2020-07-31,308.35,5
+CUST00947,Susan Rodriguez,44,Female,Philadelphia,2024-01-28,11.84,2
+CUST00084,Richard Wilson,25,Male,Houston,2018-07-14,213.62,5
+CUST00131,William Smith,21,Female,Philadelphia,2018-01-11,202.59,4
+CUST00416,Barbara Jones,38,Female,New York,2020-08-31,48.37,5
+CUST00896,Mary Lopez,49,Male,San Diego,2023-10-01,352.84,3
+CUST00842,Sarah Johnson,40,Female,Phoenix,2023-05-27,115.16,3
+CUST00742,Robert Brown,29,Male,Chicago,2022-10-04,225.01,3
+CUST00698,Barbara Williams,48,Female,Chicago,2022-06-23,118.96,4
+CUST00124,James Rodriguez,37,Male,Phoenix,2018-10-16,42.2,3
+CUST00034,Jennifer Garcia,52,Male,San Antonio,2018-03-19,210.92,1
+CUST00788,David Davis,67,Male,Los Angeles,2023-01-20,143.92,4
+CUST00517,David Davis,59,Female,Houston,2021-04-25,130.18,3
+CUST00924,Robert Gonzalez,34,Female,San Jose,2023-05-12,106.36,4
+CUST00020,Robert Jones,53,Female,Dallas,2018-02-14,618.85,5
+CUST00987,Jennifer Miller,55,Female,Chicago,2024-05-01,315.67,4
+CUST00220,Linda Jones,26,Male,San Diego,2019-05-29,77.37,4
+CUST00892,Mary Thomas,41,Male,Los Angeles,2023-09-21,117.99,4
+CUST00580,James Gonzalez,60,Male,San Jose,2021-09-19,334.84,4
+CUST00482,John Lopez,53,Female,San Antonio,2021-02-02,220.29,4
+CUST00932,Barbara Davis,53,Male,San Diego,2023-12-24,778.4,4
+CUST00662,Jennifer Williams,30,Female,Phoenix,2022-03-31,152.17,3
+CUST00225,Karen Wilson,24,Female,Houston,2019-06-10,630.66,4
+CUST00760,Thomas Martinez,40,Female,Houston,2022-11-16,50.2,3
+CUST00093,Michael Garcia,42,Female,Dallas,2018-08-04,445.06,4
+CUST00152,Thomas Davis,40,Female,San Diego,2018-12-21,290.77,3
+CUST00318,John Williams,37,Female,Dallas,2020-01-14,384.01,5
+CUST00449,Robert Hernandez,66,Female,San Diego,2020-11-16,93.33,5
+CUST00804,Thomas Gonzalez,33,Male,Chicago,2023-02-27,259.88,3
+CUST00746,Mary Jones,25,Female,Dallas,2022-10-14,781.6325,4
+CUST00523,Karen Smith,41,Female,San Antonio,2021-05-09,33.68,5
+CUST00280,Thomas Martinez,26,Female,San Antonio,2019-10-17,595.88,4
+CUST00584,Mary Martinez,55,Male,Philadelphia,2021-09-29,265.57,4
+CUST00765,Thomas Miller,35,Male,Houston,2022-11-27,167.5,1
+CUST00605,Susan Hernandez,45,Male,Philadelphia,2021-11-17,239.29,1
+CUST00350,James Garcia,48,Male,Philadelphia,2020-03-29,500.41,2
+CUST00928,Mary Anderson,36,Male,Houston,2023-12-15,392.03,3
+CUST00401,John Martinez,52,Male,Chicago,2020-07-27,294.51,3
+CUST00705,Susan Rodriguez,36,Female,Dallas,2022-07-10,418.46,5
+CUST00258,Mary Brown,50,Male,Los Angeles,2019-08-26,71.12,3
+CUST00945,Jessica Hernandez,33,Female,Chicago,2024-01-24,168.96,3
+CUST00852,Robert Hernandez,38,Male,New York,2023-06-19,97.17,4
+CUST00073,Richard Williams,21,Male,Houston,2018-06-18,763.74,3
+CUST00196,Mary Anderson,32,Female,Chicago,2019-03-04,321.94,4
+CUST00484,Thomas Miller,47,Female,Houston,2021-02-06,465.94,4
+CUST00856,Joseph Davis,38,Female,San Antonio,2023-06-29,280.38,4
+CUST00138,Michael Lopez,48,Female,Philadelphia,2018-11-18,186.55,4
+CUST00773,Elizabeth Thomas,30,Female,Chicago,2022-12-16,170.6,2
+CUST00551,William Jones,40,Female,Dallas,2021-07-13,271.02,3
+CUST00463,David Anderson,35,Male,Philadelphia,2020-12-19,162.95,3
+CUST00202,Elizabeth Miller,41,Female,Houston,2019-04-17,781.6325,4
+CUST00313,Patricia Jones,41,Male,Chicago,2020-01-02,401.55,5
+CUST00291,Robert Smith,25,Male,Philadelphia,2019-12-11,308.01,3
+CUST00764,Charles Davis,51,Female,San Jose,2022-11-25,306.2,2
+CUST00950,Susan Johnson,35,Male,San Antonio,2024-02-04,781.6325,2
+CUST00184,William Jones,42,Male,Unknown,2019-03-06,252.84,4
+CUST00251,Barbara Thomas,55,Male,San Jose,2019-08-10,310.11,5
+CUST00824,Susan Davis,47,Male,San Jose,2023-04-15,547.09,1
+CUST00941,Robert Thomas,43,Female,Phoenix,2024-01-14,157.13,3
+CUST00392,James Johnson,38,Female,Phoenix,2020-07-06,149.52,5
+CUST00905,Patricia Brown,9,Female,Los Angeles,2023-10-22,505.28,5
+CUST00731,David Davis,40,Male,San Antonio,2022-09-09,385.15,3
+CUST00555,Charles Hernandez,42,Female,Unknown,2021-07-23,111.25,1
+CUST00367,Jessica Davis,45,Female,San Antonio,2020-05-08,252.84,4
+CUST00536,Linda Johnson,27,Male,San Antonio,2021-08-06,121.94,3
+CUST00920,Charles Hernandez,47,Male,Phoenix,2023-11-26,107.26,3
+CUST00212,Joseph Lopez,45,Male,Dallas,2019-05-10,387.25,4
+CUST00538,John Rodriguez,40,Male,Unknown,2021-06-13,224.03,4
+CUST00176,Joseph Thomas,58,Male,San Antonio,2019-02-15,60.39,3
